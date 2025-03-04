@@ -1,10 +1,6 @@
-# desafiosupersadio
-
-![shapes (2).png](attachment:709619dc-f420-4ebf-8a08-59d00d0f4c64:shapes_(2).png)
+# desafiosupersadio lógica da programação
 
 ### O QUE PRECISA SER FEITO ?  Crie um código para armazenar o máximo de informações possível dos pokemon da imagem ao lado e ao final, para cada um, exiba uma mensagem de saída escrita o nome do pokemon concatenado com "Cadastrado com sucesso"
-
-![shape_1g-y-1bRKuJKEDAE_-Ga5.png](attachment:657ae529-553e-466c-b74e-98d09f05396d:shape_1g-y-1bRKuJKEDAE_-Ga5.png)
 
 EXEMPLO:
 "DRAGONITE Cadastrado com sucesso"
